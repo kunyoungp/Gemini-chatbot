@@ -1,9 +1,10 @@
 # Gemini-chatbot
 Chatbot with image processing function using Gemini API.
 
-# Prerequisite:
+# Steps:
 1. Create .env file with your GEMINI_API_KEY.
 2. Install following packages: streamlit, dotenv, google.generativeai
+3. run with: python -m streamlit run chatbot.py
 
 # Main Functions
 1. Chatbot
